@@ -21,3 +21,6 @@ App also provides a list of all the calls made from a specific phone can other c
 7. Contains flexible settings for different dbnames and password and also for over the web server
 8. In app playback of recorded calls directily from the ftp server
 9. Full day call time calculation for specific person
+
+![alt text](https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Genral_notofication.jpg)
+
