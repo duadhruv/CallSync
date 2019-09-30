@@ -13,6 +13,7 @@ App also provides a list of all the calls made from a specific phone can other c
 
 # Features
 1. Runs in background to sync all the call
+
 <img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Genral_notofication.jpg" width="300">  <img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Notification_while_sync.jpg" width="300">
 
 2. If not connected to server, App automatically stores the details in sqlite database and backs it up to main server when connected
