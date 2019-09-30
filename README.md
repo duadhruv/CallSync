@@ -19,3 +19,5 @@ App also provides a list of all the calls made from a specific phone can other c
 5. Show the last sync time in the notification panel
 6. Contains provision for adding company name for a specific phone number
 7. Contains flexible settings for different dbnames and password and also for over the web server
+8. In app playback of recorded calls directily from the ftp server
+9. Full day call time calculation for specific person
