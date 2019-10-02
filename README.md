@@ -44,7 +44,8 @@ App also provides a list of all the calls made from a specific phone can other c
 <img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Main_app_calldetails_dialog2.jpg" width="300">
 
 11. Ability to add remarks for a perticular call with green indication when filled.
-<img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Main_app_remarksfill.jpg" width="300">   <img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Remarks_filled.jp" width="300">
+ 
+ <img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Main_app_remarksfill.jpg" width="300">   <img src="https://github.com/duadhruv/CallSync/blob/master/HexCallSync%20Screenshots/Remarks_filled.jpg" width="300">
 
 
 
